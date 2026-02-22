@@ -6,7 +6,7 @@
 * RTX HDR är istället för Windows Auto HDR, till för spel utan HDR implementerat och fungerar bättre, lika så RTX Video enhancements. 
 * Flera inställningar kan tweakas per spel, under Nvidia App -> Graphics -> Game Settings. Syns inte spelet så kan man lägga till det manuellt.
 * Finns ett litet frågetecken på varje option du kan klicka på för vidare förklaring av vad allt gör, see below
-* Du kan högerklicka på bilderna och öppna i en ny tab om du inte ser ordentligt.
+* Du kan klicka på bilderna för att öppna en större version om du behöver se bättre
 
 <img src="images/img10.png" style="max-width:400px;">
 
@@ -78,6 +78,7 @@ Max shader cache får du bestämma själv vad du har utrymme för. Jag satte 100
 **8: Kalibrera HDR! Öppna Windows HDR Calibration och följ instruktionerna 4 real good times**
 
 <img src="images/img11.png" style="max-width:400px;">
+
 
 
 # ENJOY U LIL BISH
