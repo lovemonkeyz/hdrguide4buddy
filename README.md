@@ -1,0 +1,1 @@
+# hdrguide4buddy
