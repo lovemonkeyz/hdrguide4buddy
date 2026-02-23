@@ -8,7 +8,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Ghost Recon Wildlands co-op gameplay" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/shorts/AfAvFAOO7MU?feature=share)
 
 **Theme:** Modern military special operations in South America
 
@@ -24,7 +24,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Space Marine 2 operations gameplay" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/shorts/lcsXxXk7Kn4)
 
 **Theme:** Grimdark far-future sci-fi
 
@@ -40,7 +40,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/1097840/Gears_5/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Gears 5 co-op campaign gameplay" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://youtu.be/NT63SzgJYnE)
 
 **Theme:** Military sci-fi on a dying planet
 
