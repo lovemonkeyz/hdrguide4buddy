@@ -40,21 +40,21 @@
 
 ---
 
-## **3. Dying Light 2 Stay Human**
+## **3. Dying Light**
 
-⭐ **Critics:** 76/100 ★★★★☆ (Metacritic) | **Users:** 6.5/10 ★★★☆☆ (Metacritic) | **Steam:** Mostly Positive (75%) ★★★★☆
+⭐ **Critics:** 75/100 ★★★★☆ (Metacritic) | **Users:** 7.5/10 ★★★★☆ (Metacritic) | **Steam:** Overwhelmingly Positive (93%) ★★★★★
 
-**🎮 Steam:** https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/
+**🎮 Steam:** https://store.steampowered.com/app/239140/Dying_Light/
 
-[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=3j88jqBb4MM)
+[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=6C9NFL6j44c)
 
-**Theme:** Post-apocalyptic parkour survival
+**Theme:** Zombie apocalypse parkour survival
 
-**Story:** 15 years after the zombie outbreak, humanity's last city is fractured by warring factions. You're Aiden Caldwell searching for your sister while your choices shape which factions control the city and how the story unfolds.
+**Story:** You're an undercover agent sent into a quarantined city overrun by zombies to retrieve sensitive intel. The mission goes wrong, you get infected, and you're caught between completing your objective and helping survivors.
 
-**Gameplay:** First-person parkour with expanded movement (paraglider, grappling hook). Melee combat with weapon crafting and modding. Day/night cycle is crucial — night is significantly more dangerous but offers better loot. Choices affect the world state. Full co-op campaign (4 players).
+**Gameplay:** First-person parkour movement system — climb, vault, and traverse the city freely. Melee-focused combat with crafted weapons that degrade. Day/night cycle completely changes gameplay — night is genuinely terrifying with stronger, faster zombies. Co-op works seamlessly throughout the campaign.
 
-**Comparison:** Dying Light 1 but bigger, more RPG systems, player choice matters.
+**Comparison:** Mirror's Edge parkour meets Dead Island's melee combat and crafting. The Following DLC adds vehicles which makes it as close as possible to "Days Gone but with COOP"
 
 ---
 
@@ -75,22 +75,21 @@
 **Comparison:** Uncharted's cinematic action meets Gears' brutal cover shooting.
 
 ---
+## **5. Dying Light 2 Stay Human**
 
-## **5. Dying Light**
+⭐ **Critics:** 76/100 ★★★★☆ (Metacritic) | **Users:** 6.5/10 ★★★☆☆ (Metacritic) | **Steam:** Mostly Positive (75%) ★★★★☆
 
-⭐ **Critics:** 75/100 ★★★★☆ (Metacritic) | **Users:** 7.5/10 ★★★★☆ (Metacritic) | **Steam:** Overwhelmingly Positive (93%) ★★★★★
+**🎮 Steam:** https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/
 
-**🎮 Steam:** https://store.steampowered.com/app/239140/Dying_Light/
+[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=3j88jqBb4MM)
 
-[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=6C9NFL6j44c)
+**Theme:** Post-apocalyptic parkour survival
 
-**Theme:** Zombie apocalypse parkour survival
+**Story:** 15 years after the zombie outbreak, humanity's last city is fractured by warring factions. You're Aiden Caldwell searching for your sister while your choices shape which factions control the city and how the story unfolds.
 
-**Story:** You're an undercover agent sent into a quarantined city overrun by zombies to retrieve sensitive intel. The mission goes wrong, you get infected, and you're caught between completing your objective and helping survivors.
+**Gameplay:** First-person parkour with expanded movement (paraglider, grappling hook). Melee combat with weapon crafting and modding. Day/night cycle is crucial — night is significantly more dangerous but offers better loot. Choices affect the world state. Full co-op campaign (4 players).
 
-**Gameplay:** First-person parkour movement system — climb, vault, and traverse the city freely. Melee-focused combat with crafted weapons that degrade. Day/night cycle completely changes gameplay — night is genuinely terrifying with stronger, faster zombies. Co-op works seamlessly throughout the campaign.
-
-**Comparison:** Mirror's Edge parkour meets Dead Island's melee combat and crafting.
+**Comparison:** Dying Light 1 but bigger, more RPG systems, player choice matters.
 
 ---
 
