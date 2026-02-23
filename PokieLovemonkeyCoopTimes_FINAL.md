@@ -2,7 +2,7 @@
 
 > **Context:** Both players on PC. Similar taste (RDR2, Witcher 3, GTA V, Cyberpunk 2077). Looking for story-driven third-person co-op campaigns. Friend won't play souls-likes or BG3-style CRPGs.
 
-**Note:** Nothing close to RDR2 campaign but COOP. Closest to Days Gone with Coop is Dying Light 1 with The Following DLC, it adds vehicles"
+**Note:** Nothing close to RDR2 campaign but COOP. Closest to Days Gone with Coop is Dying Light 1 with The Following DLC, it adds vehicles
 
 ---
 
