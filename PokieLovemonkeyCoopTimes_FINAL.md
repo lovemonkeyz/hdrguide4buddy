@@ -1,6 +1,6 @@
 # Co-Op Campaign Games — Ranked for Lovemonkey & Pokie
 
-> **Context:** Both players on PC. Similar taste (RDR2, Witcher 3, GTA V, Cyberpunk 2077, KCD2). Looking for story-driven third-person co-op campaigns. Friend won't play souls-likes or BG3-style CRPGs.
+> **Context:** Both players on PC. Similar taste (RDR2, Witcher 3, GTA V, Cyberpunk 2077). Looking for story-driven third-person co-op campaigns. Friend won't play souls-likes or BG3-style CRPGs.
 
 ---
 
@@ -127,8 +127,24 @@
 **Comparison:** Gears of War meets Destiny's powers, but entirely story-focused.
 
 ---
+## **8. Halo: The Master Chief Collection**
 
-## **8. Dying Light: The Beast**
+**🎮 Steam:** https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
+
+**🎥 Gameplay Clip:** https://www.youtube.com/watch?v=pKGmkHF2eqM
+
+**Notes:** Nostalgia for both of you — you've already played Halo 1 & 2 co-op together. Six full campaigns across multiple tones (Reach is dark/gritty, Halo 3 is epic scale).
+
+**Theme:** Military sci-fi space opera
+
+**Story:** Humanity is at war with an alien alliance called the Covenant. You're Master Chief, a supersoldier fighting to save humanity from extinction. The series spans ancient alien mysteries, galaxy-spanning war, and the discovery of weapons that can wipe out all life.
+
+**Gameplay:** First-person shooter with regenerating shields and two-weapon limit. Vehicle combat (Warthogs, tanks, spacecraft), large-scale battles, iconic weapons (energy swords, plasma grenades). Six full campaigns with varying tones — Reach is dark/gritty, Halo 3 is epic scale, ODST is noir detective story.
+
+**Comparison:** Classic arena FPS combat meets Starship Troopers scale and scope.
+
+---
+## **9. Dying Light: The Beast**
 
 **🎮 Steam:** https://store.steampowered.com/app/2772750/Dying_Light_The_Beast/
 
@@ -144,20 +160,3 @@
 
 **Comparison:** Dying Light 1 but rural setting, playing as the original protagonist with new powers.
 
----
-
-## **9. Halo: The Master Chief Collection**
-
-**🎮 Steam:** https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
-
-**🎥 Gameplay Clip:** https://www.youtube.com/watch?v=pKGmkHF2eqM
-
-**Notes:** Nostalgia for both of you — you've already played Halo 1 & 2 co-op together. Six full campaigns across multiple tones (Reach is dark/gritty, Halo 3 is epic scale).
-
-**Theme:** Military sci-fi space opera
-
-**Story:** Humanity is at war with an alien alliance called the Covenant. You're Master Chief, a supersoldier fighting to save humanity from extinction. The series spans ancient alien mysteries, galaxy-spanning war, and the discovery of weapons that can wipe out all life.
-
-**Gameplay:** First-person shooter with regenerating shields and two-weapon limit. Vehicle combat (Warthogs, tanks, spacecraft), large-scale battles, iconic weapons (energy swords, plasma grenades). Six full campaigns with varying tones — Reach is dark/gritty, Halo 3 is epic scale, ODST is noir detective story.
-
-**Comparison:** Classic arena FPS combat meets Starship Troopers scale and scope.
