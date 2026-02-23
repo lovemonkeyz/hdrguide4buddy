@@ -1,4 +1,4 @@
-# Co-Op Campaign Games — Ranked for Lovemonkey & Friend (Updated)
+# Co-Op Campaign Games — Ranked for Lovemonkey & Pokie
 
 > **Context:** Both players on PC. Similar taste (RDR2, Witcher 3, GTA V, Cyberpunk 2077, KCD2). Looking for story-driven third-person co-op campaigns. Friend won't play souls-likes or BG3-style CRPGs.
 
@@ -8,7 +8,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Ghost Recon Wildlands co-op gameplay" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/shorts/AfAvFAOO7MU?feature=share)
 
 **Theme:** Modern military special operations in South America
 
@@ -24,7 +24,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Space Marine 2 operations gameplay" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/shorts/I711o-M2q6s?feature=share)
 
 **Theme:** Grimdark far-future sci-fi
 
@@ -40,7 +40,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Dying Light 2 co-op parkour night" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=3j88jqBb4MM)
 
 **Theme:** Post-apocalyptic parkour survival
 
@@ -56,7 +56,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/1097840/Gears_5/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Gears 5 co-op campaign gameplay" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=iIX1mUFqIlk)
 
 **Theme:** Military sci-fi on a dying planet
 
@@ -72,7 +72,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/239140/Dying_Light/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Dying Light co-op parkour" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=6C9NFL6j44c)
 
 **Theme:** Zombie apocalypse parkour survival
 
@@ -88,7 +88,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/1282100/Remnant_II/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Remnant 2 co-op boss fight" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://youtu.be/u5q7Ez5s2BU)
 
 **Theme:** Multiverse dark fantasy/sci-fi
 
@@ -104,7 +104,7 @@
 
 **🎮 Steam:** https://store.steampowered.com/app/680420/OUTRIDERS/
 
-**🎥 Gameplay Clip:** *(Search YouTube: "Outriders co-op powers" for 10-20 sec clips)*
+[**🎥 Gameplay Clip:**](https://www.youtube.com/watch?v=q3W-Y4fNrQQ)
 
 **Theme:** Sci-fi colonization gone wrong
 
