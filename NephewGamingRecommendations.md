@@ -7,9 +7,9 @@
 #### **1. Red Dead Redemption 2**
 
 ⭐ **PS5 Store:** 4.75/5 | **Critics:** 97/100 | **Community:** 9.0/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP1004-CUSA08519_00-REDEMPTIONFULL02
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Loyalty, guilt, and personal redemption in a fading outlaw era.
 
 **Story:** Arthur Morgan and the Van der Linde gang struggle to survive as the old frontier dies out and pressure from lawmen grows. As betrayals and losses mount, Arthur is forced to decide what kind of man he wants to be before everything collapses.
@@ -25,9 +25,9 @@
 #### **2. Cyberpunk 2077**
 
 ⭐ **PS5 Store:** 4.51/5 | **Critics:** 75/100 | **Community:** 7.3/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP4497-PPSA04029_00-0000000000000N22
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Identity, body autonomy, and survival under total corporate control.
 
 **Story:** Mercenary V takes a job that goes wrong and ends up with a prototype biochip slowly overwriting their mind with rockstar-terrorist Johnny Silverhand. In Night City, every alliance and decision pushes V toward a different path to survival.
@@ -40,12 +40,12 @@
 ---
 
 
-#### **3. Saints Row The Third Remastered**
+#### **3. [Dual-Mode] Saints Row The Third Remastered**
 
 ⭐ **PS5 Store:** 4.37/5 | **Critics:** 74/100 | **Community:** 6.9/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP4062-PPSA02874_00-SRTTRPS5SIEE0000
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 2)
 **Theme:** Fame, excess, and satirical criminal power fantasy.
 
 **Story:** The Saints go from street gang to global celebrities, then crash into a brutal syndicate war in Steelport. The campaign leans hard into absurd escalation while still treating loyalty to the crew as the emotional core.
@@ -58,12 +58,12 @@
 ---
 
 
-#### **4. Saints Row IV: Re-Elected**
+#### **4. [Dual-Mode] Saints Row IV: Re-Elected**
 
 ⭐ **PS5 Store:** 4.50/5 | **Critics:** 71/100 | **Community:** 6.9/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP4062-CUSA01106_00-DIGISAINTSROW4NG
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 2)
 **Theme:** Escapist superhero parody built on friendship and irreverent humor.
 
 **Story:** After becoming U.S. president, the Boss and Saints are trapped inside an alien simulation run by Zinyak. Rescuing the crew turns into a weird, funny resistance story about turning impossible odds into pure chaos.
@@ -76,12 +76,12 @@
 ---
 
 
-#### **5. Saints Row: Gat Out of Hell**
+#### **5. [Dual-Mode] Saints Row: Gat Out of Hell**
 
 ⭐ **PS5 Store:** 4.20/5 | **Critics:** 64/100 | **Community:** 5.6/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
-**🎮 PlayStation Store:** https://store.playstation.com/concept/213748
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/213748
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 2)
 **Theme:** Loyalty and rebellion pushed to absurd supernatural extremes.
 
 **Story:** Johnny Gat and Kinzie descend into Hell when the Boss is taken by Satan for a forced royal marriage. The plot is intentionally unhinged, but still anchored by the Saints' "no one gets left behind" attitude.
@@ -97,9 +97,9 @@
 #### **6. Bioshock Remastered**
 
 ⭐ **PS5 Store:** 4.59/5 | **Critics:** 96/100 | **Community:** 7.6/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP1001-CUSA13064_00-BIO1REMASTERED00
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Free will versus control, and ideology collapsing under human greed.
 
 **Story:** After a plane crash, you discover Rapture, a failed underwater utopia built on radical individualism. As you descend deeper, the city's politics, propaganda, and power struggles reveal why everything fell apart.
@@ -115,9 +115,9 @@
 #### **7. Bioshock 2 Remastered**
 
 ⭐ **PS5 Store:** 4.61/5 | **Critics:** 88/100 | **Community:** 7.5/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/216051
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Parenthood, humanity, and identity inside a decaying dystopia.
 
 **Story:** You play Subject Delta, an early Big Daddy, trying to reunite with Eleanor in a collapsing Rapture controlled by cult-like ideology. The story explores care, dependency, and what remains of personhood in a broken system.
@@ -133,9 +133,9 @@
 #### **8. Bioshock Infinite**
 
 ⭐ **PS5 Store:** 4.61/5 | **Critics:** 94/100 | **Community:** 8.6/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/216051
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** National myth, extremism, guilt, and destiny across parallel realities.
 
 **Story:** Booker DeWitt is sent to Columbia, a floating nationalist city, to bring Elizabeth back to New York. What starts as a rescue mission unravels into a reality-bending story about violence, identity, and inevitability.
@@ -151,9 +151,9 @@
 #### **9. Dishonored**
 
 ⭐ **PS5 Store:** 4.66/5 | **Critics:** 88/100 | **Community:** 8.2/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP1003-CUSA02230_00-DISHONOREDGAMEUK
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Revenge versus mercy, and the moral cost of power.
 
 **Story:** Corvo is framed for the Empress's murder and fights through plague-ridden Dunwall to protect Emily and expose the coup. The narrative reacts to whether you choose ruthless vengeance or disciplined restraint.
@@ -169,9 +169,9 @@
 #### **10. Mad Max**
 
 ⭐ **PS5 Store:** 4.47/5 | **Critics:** 69/100 | **Community:** 7.7/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP1018-CUSA00054_00-MADMAXTHEGAME001
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Survival, obsession, and rebuilding purpose in a lawless wasteland.
 
 **Story:** Stripped of everything, Max teams up with Chumbucket to build the Magnum Opus and challenge Scrotus's war machine. The plot is lean but effective: revenge, survival, and fragile alliances.
@@ -187,9 +187,9 @@
 #### **11. Spider-Man**
 
 ⭐ **PS5 Store:** 4.69/5 | **Critics:** 87/100 | **Community:** 8.7/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-CUSA11993_00-000000000MSMGOTY
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Responsibility, sacrifice, and balancing duty with personal life.
 
 **Story:** Peter Parker faces escalating threats from Mister Negative and beyond while trying to hold together work, friendships, and mentor responsibilities. The story lands because it treats heroism as emotional cost, not just spectacle.
@@ -205,9 +205,9 @@
 #### **12. God Of War**
 
 ⭐ **PS5 Store:** 4.75/5 | **Critics:** 94/100 | **Community:** 9.0/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-CUSA07410_00-0000000GODOFWARN
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Fatherhood, grief, restraint, and breaking cycles of violence.
 
 **Story:** Kratos and Atreus set out to fulfill Faye's final wish, triggering conflict with gods and monsters of Norse myth. Their relationship, not just the battles, drives the emotional momentum.
@@ -223,9 +223,9 @@
 #### **13. God Of War: Ragnarök**
 
 ⭐ **PS5 Store:** 4.79/5 | **Critics:** 94/100 | **Community:** 8.3/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-PPSA08330_00-GOWRAGNAROK00000
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Fate versus choice, trust within family, and the cost of war.
 
 **Story:** With prophecy closing in, Kratos and Atreus navigate shifting loyalties across the Nine Realms while deciding whether Ragnarok can be changed or must be endured. The sequel deepens both character conflict and world-scale stakes.
@@ -241,9 +241,9 @@
 #### **14. Hogwarts Legacy**
 
 ⭐ **PS5 Store:** 4.43/5 | **Critics:** 84/100 | **Community:** 8.1/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP1018-PPSA01593_00-HOGWARTSLEGACY00
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Belonging, curiosity, and ethical use of dangerous power.
 
 **Story:** As a late fifth-year student with a rare connection to ancient magic, you uncover conspiracies involving goblin rebellion and hidden wizarding secrets. The narrative is a classic chosen-student arc with plenty of world-building fan service.
@@ -259,9 +259,9 @@
 #### **15. Tomb Raider**
 
 ⭐ **PS5 Store:** 4.68/5 | **Critics:** 86/100 | **Community:** 8.3/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0082-CUSA00109_00-000000TOMBRAIDER
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Survival under trauma and the forging of identity through crisis.
 
 **Story:** Lara is shipwrecked on Yamatai and forced to evolve from inexperienced archaeologist into a determined survivor while rescuing her crew. The narrative focuses on endurance and transformation under relentless pressure.
@@ -277,9 +277,9 @@
 #### **16. Rise Of The Tomb Raider**
 
 ⭐ **PS5 Store:** 4.49/5 | **Critics:** 86/100 | **Community:** 8.1/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0082-CUSA05716_00-RISEOFTOMBRAIDER
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Obsession, legacy, and the personal cost of pursuing forbidden truth.
 
 **Story:** Lara follows clues to Kitezh to prove her father's research and outmaneuver Trinity's militarized expedition. The story pushes harder on Lara's internal conflict between mission, family legacy, and self-preservation.
@@ -295,9 +295,9 @@
 #### **17. Shadow of the Tomb Raider**
 
 ⭐ **PS5 Store:** 4.44/5 | **Critics:** 75/100 | **Community:** 7.3/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0082-CUSA10872_00-SHADOWTOMBRAIDER
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Guilt, responsibility, and becoming a true protector rather than a survivor.
 
 **Story:** After triggering events tied to Mayan catastrophe myths, Lara hunts Trinity across Peru and hidden cities to prevent global disaster. The tone is darker and centers on consequences of impulsive action.
@@ -313,9 +313,9 @@
 #### **18. High On Life**
 
 ⭐ **PS5 Store:** 4.39/5 | **Critics:** 67/100 | **Community:** 7.6/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP2886-PPSA15389_00-0937721911272224
+**Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Absurdist comedy, anti-corporate satire, and chaotic coming-of-age energy.
 
 **Story:** A bored teenager is pulled into an intergalactic conflict where humans are trafficked as narcotics, then becomes an unlikely bounty hunter. The story is intentionally ridiculous but anchored by recurring character banter and escalating stakes.
@@ -332,12 +332,12 @@
 
 ---
 
-#### **1. The Forest**
+#### **1. [Dual-Mode] The Forest**
 
 ⭐ **PS5 Store:** 4.49/5 | **Critics:** 83/100 | **Community:** 8.2/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/231416
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
 **Theme:** Parental desperation, isolation, and creeping psychological horror.
 
 **Story:** After a plane crash, you search for your missing son on an island inhabited by cannibals and mutants while uncovering disturbing research facilities beneath the surface. The story balances open-ended survival with escalating dread.
@@ -350,12 +350,12 @@
 ---
 
 
-#### **2. Dying Light 2 Stay Human**
+#### **2. [Dual-Mode] Dying Light 2 Stay Human**
 
 ⭐ **PS5 Store:** 4.11/5 | **Critics:** 77/100 | **Community:** 7.2/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/232374
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
 **Theme:** Survival under fractured authority, trust, and consequences of personal choices.
 
 **Story:** In the last major human city, Aiden searches for his sister while competing factions fight over control, resources, and ideology. Your decisions reshape alliances, districts, and how key plotlines resolve.
@@ -368,12 +368,12 @@
 ---
 
 
-#### **3. Dying Light**
+#### **3. [Dual-Mode] Dying Light**
 
 ⭐ **PS5 Store:** 4.64/5 | **Critics:** 74/100 | **Community:** 7.7/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP1018-CUSA02010_00-DYINGLIGHTGAME00/
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
 **Theme:** Duty versus empathy in a city collapsing into fear and violence.
 
 **Story:** Undercover operative Kyle Crane enters quarantined Harran on a mission but becomes tied to local survivors and their moral compromises. The narrative is straightforward but effective because tension rises with both human and infected threats.
@@ -386,12 +386,12 @@
 ---
 
 
-#### **4. Warhammer 40,000: Space Marine 2**
+#### **4. [Dual-Mode] Warhammer 40,000: Space Marine 2**
 
 ⭐ **PS5 Store:** 4.43/5 | **Critics:** 80/100 | **Community:** 7.8/10
-<sub>Community and Critics Source: MetaCritic</sub>
 
 **🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP4133-PPSA04451_00-SPACEMARINESII00
+**Play Modes:** Solo ✅ | Co-op ✅ (Operations, up to 3)
 **Theme:** Duty, sacrifice, and martial brotherhood in a hopeless war.
 
 **Story:** Lieutenant Titus returns to battle as Tyranid invasions threaten Imperial worlds, with larger conspiracies unfolding behind frontline massacres. The story emphasizes relentless war theology and absolute loyalty to the Imperium.
@@ -404,28 +404,182 @@
 ---
 
 
-#### **5. Remnant II**
+### Additional Single Player Recommendations
 
-⭐ **PS5 Store:** 4.31/5 | **Critics:** 80/100 | **Community:** 8.0/10
-<sub>Community and Critics Source: MetaCritic</sub>
+#### **19. [Dual-Mode] Ghost of Tsushima Director's Cut**
 
-**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10004544
-**Theme:** Resilience and hope across collapsing worlds and uncertain fate.
+⭐ **PS5 Store:** 4.61/5 | **Critics:** 87/100 | **Community:** 8.4/10
 
-**Story:** Survivors fight the Root by traveling through shifting realms where timelines, civilizations, and threats constantly mutate. The plot is intentionally mysterious, with lore discovered through exploration rather than long exposition.
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/235227
+**Play Modes:** Solo ✅ | Co-op ✅ (Legends Online, up to 4)
+**Theme:** Honor, identity, and the moral cost of defending your home.
 
-**Gameplay:** Dodge-timing gunplay, archetype build crafting, weapon mod synergies, procedural world variation, major boss encounters, and co-op for up to 3 players.
+**Story:** Samurai Jin Sakai survives the Mongol invasion of Tsushima and must choose between strict samurai tradition and new, ruthless tactics to save his people.
 
-**Genres:** Soulslike third-person shooter, action RPG, co-op.
+**Gameplay:** Open-world exploration, stance-based katana combat, stealth infiltration, archery, and side tales with strong environmental guidance.
+
+**Genres:** Open-world action-adventure, samurai drama, stealth action.
 
 
 ---
 
 
-### **Other Games**
+#### **20. Star Wars Jedi: Survivor**
 
-- Diablo IV
-- Destiny 2
-- Helldivers 2
-- No Man's Sky
-- Rocket League
+⭐ **PS5 Store:** 4.26/5 | **Critics:** 85/100 | **Community:** 7.1/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10005114
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Persistence, found family, and resistance against authoritarian control.
+
+**Story:** Years after Order 66, Cal Kestis continues fighting the Empire while searching for a long-term refuge for surviving Force users.
+
+**Gameplay:** Soulslite melee duels, Force abilities, stance switching, platforming traversal, and hub-like planets with optional exploration paths.
+
+**Genres:** Action-adventure, sci-fi fantasy, soulslite.
+
+
+---
+
+
+#### **21. Ratchet & Clank: Rift Apart**
+
+⭐ **PS5 Store:** 4.74/5 | **Critics:** 88/100 | **Community:** 8.5/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10000669
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Friendship, self-confidence, and finding purpose across alternate realities.
+
+**Story:** A dimension-shattering weapon causes multiverse chaos, forcing Ratchet, Clank, and newcomer Rivet to stop a tyrannical version of Dr. Nefarious.
+
+**Gameplay:** Fast shooting with creative weapons, rift-based mobility, platforming, collectible progression, and strong set-piece pacing.
+
+**Genres:** Action-platformer, third-person shooter, sci-fi adventure.
+
+
+---
+
+
+#### **22. Lies of P**
+
+⭐ **PS5 Store:** 4.53/5 | **Critics:** 80/100 | **Community:** 8.3/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10006052
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Truth versus deception and what it means to become human.
+
+**Story:** In a Belle Epoque-inspired city overrun by deadly puppets, Pinocchio searches for Geppetto while navigating factions, secrets, and moral choices.
+
+**Gameplay:** Soulslike combat with guard-timing focus, weapon assembly system, Legion arm tools, and branching dialogue tied to lying mechanics.
+
+**Genres:** Soulslike action RPG, gothic fantasy, dark fairy-tale adaptation.
+
+
+---
+
+
+### Additional Co-op Recommendations (No MMORPGs)
+
+#### **5. [Dual-Mode] Helldivers 2**
+
+⭐ **PS5 Store:** 4.46/5 | **Critics:** 82/100 | **Community:** 7.5/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-PPSA06016_00-HELLDIVERS200000
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
+**Theme:** Team sacrifice, military satire, and surviving chaos through coordination.
+
+**Story:** As elite soldiers of Super Earth, players deploy to hostile planets to spread managed democracy against alien factions.
+
+**Gameplay:** Squad-based PvE missions, friendly-fire-heavy combat, stratagem call-ins, objective pressure, and high replay value.
+
+**Genres:** Co-op third-person shooter, extraction-style PvE, sci-fi action.
+
+
+---
+
+
+#### **6. [Dual-Mode] Deep Rock Galactic**
+
+⭐ **PS5 Store:** 4.42/5 | **Critics:** 85/100 | **Community:** 8.4/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/233449
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
+**Theme:** Workplace camaraderie and survival in hostile environments.
+
+**Story:** Dwarven miners undertake dangerous contracts beneath alien planets, balancing profit goals with staying alive.
+
+**Gameplay:** Class-based co-op, procedural cave systems, destructible terrain, objective-driven missions, and build customization.
+
+**Genres:** Co-op PvE shooter, mining action, sci-fi teamwork game.
+
+
+---
+
+
+#### **7. [Dual-Mode] World War Z: Aftermath**
+
+⭐ **PS5 Store:** 4.19/5 | **Critics:** 80/100 | **Community:** 6.4/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/230658
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
+**Theme:** Collective survival and resilience during global collapse.
+
+**Story:** Multiple survivor groups across different countries fight overwhelming zombie swarms while trying to secure evacuation and resources.
+
+**Gameplay:** Four-player mission co-op, huge swarm combat, class progression, defensive setup moments, and weapon customization.
+
+**Genres:** Co-op zombie shooter, PvE action, survival shooter.
+
+
+---
+
+
+#### **8. [Dual-Mode] Dead Island 2**
+
+⭐ **PS5 Store:** 4.21/5 | **Critics:** 73/100 | **Community:** 7.2/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/201061
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 3)
+**Theme:** Survival horror mixed with dark comedy and B-movie excess.
+
+**Story:** In quarantined Los Angeles, immune survivors fight through faction conflicts and bio-outbreak mysteries while searching for answers.
+
+**Gameplay:** First-person melee combat with dismemberment focus, skill cards, weapon crafting, zone-based exploration, and drop-in co-op.
+
+**Genres:** Co-op action RPG, zombie survival, first-person melee action.
+
+
+---
+
+
+#### **9. [Dual-Mode] No Man's Sky**
+
+⭐ **PS5 Store:** 4.01/5 | **Critics:** 71/100 | **Community:** 5.6/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/216600
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
+**Theme:** Exploration, discovery, and building meaning in an infinite universe.
+
+**Story:** Travelers uncover Atlas mysteries while charting planets, building bases, and shaping their own path through a shared galaxy.
+
+**Gameplay:** Seamless space-to-surface traversal, crafting and base building, survival systems, expeditions, and flexible co-op sessions.
+
+**Genres:** Open-world survival, space exploration, co-op sandbox.
+
+
+---
+
+
+#### **10. [Dual-Mode] Destiny 2**
+
+⭐ **PS5 Store:** 4.23/5 | **Critics:** 85/100 | **Community:** 5.2/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/221852
+**Play Modes:** Solo ✅ | Co-op ✅ (Fireteams up to 3, some activities up to 6)
+**Theme:** Hope versus annihilation and loyalty to a shared cause.
+
+**Story:** Guardians defend humanity's last city while confronting cosmic threats tied to the Traveler, Light, and Darkness.
+
+**Gameplay:** Tight FPS gunplay, buildcrafting with subclasses/exotics, co-op strikes and dungeons, and ongoing seasonal content.
+
+**Genres:** Shared-world FPS, action looter-shooter, co-op PvE.
