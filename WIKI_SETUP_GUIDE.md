@@ -38,6 +38,11 @@ GitHub wikis are a separate Git repo (`<repo>.wiki.git`).
 git clone https://github.com/<OWNER>/<REPO>.wiki.git /tmp/<REPO>.wiki
 ```
 
+If this returns `Repository not found`:
+1. Open `https://github.com/<OWNER>/<REPO>/wiki` in browser.
+2. If prompted, enable wiki and create the first page (`Home`).
+3. For private repos, ensure auth has write access (PAT/SSH).
+
 ### Copy generated pages
 
 ```bash
@@ -51,6 +56,32 @@ cd /tmp/<REPO>.wiki
 git add .
 git commit -m "Update wiki backup from recommendations export"
 git push
+```
+
+## 3b) One-Command Publish (Recommended)
+
+From repo root:
+
+```bash
+python3 publish_github_wiki.py
+```
+
+If you're currently in another folder (for example `web/local`), run:
+
+```bash
+python3 /mnt/c/gitrepo/LovemonkeyGuides/publish_github_wiki.py --wiki-url https://github.com/lovemonkeyz/LovemonkeyGuides.wiki.git
+```
+
+This will:
+1. Regenerate files in `wiki/`
+2. Clone/pull `<repo>.wiki.git` into `/tmp/LovemonkeyGuides.wiki`
+3. Copy wiki pages into that repo
+4. Commit and push to GitHub Wiki
+
+If your repo is private and HTTPS auth is flaky in WSL, use SSH URL:
+
+```bash
+python3 publish_github_wiki.py --wiki-url git@github.com:<OWNER>/<REPO>.wiki.git
 ```
 
 ## 4) Alternative: Manual Copy/Paste

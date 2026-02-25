@@ -184,11 +184,11 @@
 ---
 
 
-#### **11. Spider-Man**
+#### **11. Spider-Man Remastered**
 
 ⭐ **PS5 Store:** 4.69/5 | **Critics:** 87/100 | **Community:** 8.7/10
 
-**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-CUSA11993_00-000000000MSMGOTY
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-PPSA01468_00-MARVELSSPIDERMAN
 **Play Modes:** Solo ✅ | Co-op ❌
 **Theme:** Responsibility, sacrifice, and balancing duty with personal life.
 
@@ -478,6 +478,222 @@
 ---
 
 
+#### **23. [Dual-Mode] Elden Ring**
+
+⭐ **PS5 Store:** 4.71/5 | **Critics:** 96/100 | **Community:** 8.4/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0700-PPSA04609_00-ELDENRING0000000
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 6)
+**Theme:** Perseverance, ambition, and fractured power in a dying mythic world.
+
+**Story:** As a Tarnished, you return to the Lands Between to gather Great Runes, confront demigods, and decide the fate of a broken order shaped by gods and ruin.
+
+**Gameplay:** Open-world soulslike combat with build freedom, high-threat bosses, exploration-heavy progression, summon support, and deep weapon/spell customization.
+
+**Genres:** Open-world action RPG, soulslike, dark fantasy.
+
+
+---
+
+
+#### **24. [Dual-Mode] Bloodborne**
+
+⭐ **PS5 Store:** 4.74/5 | **Critics:** 92/100 | **Community:** 8.9/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/200520
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 5)
+**Theme:** Obsession, forbidden knowledge, and survival within cosmic horror.
+
+**Story:** In plague-ridden Yharnam, you hunt beasts to uncover a deeper nightmare tied to ancient blood rites and incomprehensible eldritch forces.
+
+**Gameplay:** Fast, aggressive soulsborne combat built around dodging, counter-pressure, firearms for parries, and dense interconnected level design.
+
+**Genres:** Action RPG, soulsborne, gothic horror.
+
+
+---
+
+
+#### **25. [Dual-Mode] Dark Souls Remastered**
+
+⭐ **PS5 Store:** 4.70/5 | **Critics:** 84/100 | **Community:** 8.4/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0700-CUSA08495_00-DARKSOULSHD00000
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 6)
+**Theme:** Decay, sacrifice, and endurance in a collapsing world.
+
+**Story:** In Lordran, the Chosen Undead navigates cursed kingdoms and fading gods to determine whether to prolong the Age of Fire or let it end.
+
+**Gameplay:** Methodical stamina-based combat, punishing but fair encounter design, layered world interconnectivity, and asynchronous co-op/invasion multiplayer.
+
+**Genres:** Action RPG, soulslike, dark fantasy.
+
+
+---
+
+
+#### **26. [Dual-Mode] Dark Souls III**
+
+⭐ **PS5 Store:** 4.78/5 | **Critics:** 89/100 | **Community:** 8.8/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0700-CUSA03365_00-DARKSOULS3000000
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 6)
+**Theme:** Finality, legacy, and choosing what survives at the end of an era.
+
+**Story:** As the Ashen One, you pursue the Lords of Cinder across a withering world to decide how the fading flame and age-old cycle will conclude.
+
+**Gameplay:** Faster souls combat than earlier entries, difficult boss-focused progression, high build diversity, and online summon/invasion systems.
+
+**Genres:** Action RPG, soulslike, dark fantasy.
+
+
+---
+
+
+#### **27. Sekiro: Shadows Die Twice**
+
+⭐ **PS5 Store:** 4.66/5 | **Critics:** 90/100 | **Community:** 8.6/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/232898
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Honor, revenge, and discipline under impossible pressure.
+
+**Story:** Bound by oath to his young lord, shinobi Wolf carves a bloody path through Sengoku-era warlords and supernatural threats to reclaim his purpose.
+
+**Gameplay:** Precision action built around deflections, posture-breaking duels, stealth approaches, vertical mobility, and demanding boss mastery.
+
+**Genres:** Action-adventure, soulslike, samurai fantasy.
+
+
+---
+
+
+#### **28. Clair Obscur: Expedition 33**
+
+⭐ **PS5 Store:** 4.85/5 | **Critics:** 92/100 | **Community:** 9.5/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10008503
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Mortality, hope, and resistance against inevitable loss.
+
+**Story:** Expedition 33 sets out to stop the Paintress, whose yearly ritual erases entire age groups, in a desperate final mission across a surreal Belle Époque-inspired world.
+
+**Gameplay:** Reactive turn-based combat with real-time defensive and timing mechanics, character synergies, exploration, and cinematic boss encounters.
+
+**Genres:** Turn-based RPG, fantasy drama, cinematic adventure.
+
+
+---
+
+
+#### **29. [Dual-Mode] Baldur's Gate 3**
+
+⭐ **PS5 Store:** 4.79/5 | **Critics:** 96/100 | **Community:** 9.2/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP3383-PPSA14002_00-0872837811678079
+**Play Modes:** Solo ✅ | Co-op ✅ (Online up to 4, split-screen up to 2)
+**Theme:** Choice, identity, and moral consequence under absolute power.
+
+**Story:** Infected by a mind flayer parasite, you and your companions navigate warring factions and personal agendas to decide who you become and who survives.
+
+**Gameplay:** Deep party-based RPG systems with turn-based combat, branching quest paths, reactive dialogue, and heavy build/roleplay freedom.
+
+**Genres:** CRPG, turn-based tactical RPG, fantasy adventure.
+
+
+---
+
+
+#### **30. Star Wars Jedi: Fallen Order**
+
+⭐ **PS5 Store:** 4.32/5 | **Critics:** 79/100 | **Community:** 7.6/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0006-PPSA02199_00-RESPAWNSWBIRDDOG
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Rebuilding identity, perseverance, and hope under authoritarian collapse.
+
+**Story:** After Order 66, former Padawan Cal Kestis hides from the Empire until a crisis forces him back into the fight. He gathers allies and rediscovers the Jedi path while hunted by Imperial Inquisitors.
+
+**Gameplay:** Third-person lightsaber combat with stance timing and parries, Force powers, puzzle-platform traversal, and hub-based planet exploration with backtracking upgrades.
+
+**Genres:** Action-adventure, sci-fi fantasy, soulslite.
+
+
+---
+
+
+#### **31. The Witcher 3: The Wild Hunt**
+
+⭐ **PS5 Store:** 4.83/5 | **Critics:** 92/100 | **Community:** 9.1/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP4497-PPSA03977_00-00000000000GOTY8
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Family, destiny, and moral ambiguity in a world shaped by war and prejudice.
+
+**Story:** Monster hunter Geralt searches for Ciri, a child tied to prophecy and world-changing power, while the Continent collapses into political conflict and supernatural threats.
+
+**Gameplay:** Large-scale open-world questing, tactical swordplay plus signs/potions, branching dialogue consequences, contract-based monster hunts, and deep RPG progression.
+
+**Genres:** Open-world action RPG, dark fantasy, narrative adventure.
+
+
+---
+
+
+#### **32. Mass Effect: Legendary Edition**
+
+⭐ **PS5 Store:** 4.8/5 | **Critics:** 87/100 | **Community:** 7.7/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP0006-CUSA19515_00-METR000000000000
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Leadership, sacrifice, and unity against extinction-level threats.
+
+**Story:** Commander Shepard leads an elite crew across a hostile galaxy to stop an ancient cycle of annihilation while every major decision reshapes relationships and outcomes.
+
+**Gameplay:** Squad-based third-person combat with powers and tactical pauses, character/class builds, hub-driven exploration, loyalty missions, and long-form narrative choice consequences.
+
+**Genres:** Sci-fi RPG, third-person shooter, narrative adventure.
+
+
+---
+
+
+#### **33. Horizon Zero Dawn: Remastered**
+
+⭐ **PS5 Store:** 4.75/5 | **Critics:** 85/100 | **Community:** 7.2/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-PPSA13427_00-HORIZONREMASTER1
+**Play Modes:** Solo ✅ | Co-op ❌
+**Theme:** Identity, curiosity, and rebuilding meaning in a lost-world future.
+
+**Story:** Outcast hunter Aloy uncovers why machine life dominates Earth and how her own origins connect to humanity's collapse and possible survival.
+
+**Gameplay:** Third-person bow/spear combat with machine weak-point targeting, stealth takedowns, trap preparation, traversal/exploration loops, and open-world side questing.
+
+**Genres:** Action RPG, open-world adventure, sci-fi fantasy.
+
+
+---
+
+
+#### **34. [Dual-Mode] Nioh**
+
+⭐ **PS5 Store:** 4.42/5 | **Critics:** 88/100 | **Community:** 8.1/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/product/EP9000-PPSA02482_00-NIOHCEPS50000000
+**Play Modes:** Solo ✅ | Co-op ✅ (Online, up to 4)
+**Theme:** Discipline, survival, and obsession in a war-torn supernatural Japan.
+
+**Story:** Foreign samurai William is drawn into Sengoku-era conflict where warlords, yokai, and dark forces collide around powerful spirit stones.
+
+**Gameplay:** Precision stance-based melee combat, stamina/ki management, build-crafting through gear and stats, high-difficulty boss fights, and optional online co-op support.
+
+**Genres:** Action RPG, soulslike, samurai dark fantasy.
+
+
+---
+
+
 ### Additional Co-op Recommendations (No MMORPGs)
 
 #### **5. [Dual-Mode] Helldivers 2**
@@ -583,3 +799,61 @@
 **Gameplay:** Tight FPS gunplay, buildcrafting with subclasses/exotics, co-op strikes and dungeons, and ongoing seasonal content.
 
 **Genres:** Shared-world FPS, action looter-shooter, co-op PvE.
+
+
+---
+
+#### **11. Split Fiction**
+
+⭐ **PS5 Store:** 4.84/5 | **Critics:** 91/100 | **Community:** 8.6/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10005449
+**Play Modes:** Solo ❌ | Co-op ✅ (Online/Local, up to 2)
+**Theme:** Trust, teamwork, and imagination under relentless genre-switching chaos.
+
+**Story:** Writers Mio and Zoe become trapped inside a machine that simulates the stories they created, forcing them to survive rapidly shifting sci-fi and fantasy worlds while learning to cooperate.
+
+**Gameplay:** Co-op-only split-screen action-adventure with constant mechanic variety, combining platforming, puzzles, traversal set pieces, and synchronized teamwork challenges.
+
+**Genres:** Co-op action-adventure, split-screen platformer, puzzle-platformer, sci-fi/fantasy.
+
+
+---
+
+
+#### **12. Warhammer 40,000: Darktide**
+
+⭐ **PS5 Store:** 4.40/5 | **Critics:** 74/100 | **Community:** 5.5/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/10010263
+**Play Modes:** Solo ❌ | Co-op ✅ (Online, up to 4)
+**Theme:** Fanatic duty, survival, and camaraderie in an oppressive dystopian war machine.
+
+**Story:** Recruited by the Inquisition, expendable rejects fight corruption in Hive Tertium while uncovering threats that could consume the city in chaos.
+
+**Gameplay:** Four-player co-op horde shooter with class builds, melee/ranged hybrid combat, mission modifiers, and high-intensity objective runs.
+
+**Genres:** Co-op horde shooter, action FPS, sci-fi PvE.
+
+
+---
+
+
+#### **13. Rust Console Edition**
+
+⭐ **PS5 Store:** 3.80/5 | **Critics:** 66/100 | **Community:** 6.6/10
+
+**🎮 PlayStation Store:** https://store.playstation.com/sv-se/concept/233072
+**Play Modes:** Solo ❌ | Co-op ✅ (Online multiplayer, up to 99)
+**Theme:** Survival, trust, and betrayal in a player-driven hostile world.
+
+**Story:** There is no traditional narrative; each wipe creates emergent stories defined by alliances, rivalries, raids, and territory control.
+
+**Gameplay:** Open-world survival sandbox focused on gathering, crafting, base-building, PvP threat management, and long-form progression through wipe cycles.
+
+**Genres:** Survival sandbox, multiplayer shooter, base-building.
+
+
+---
+
+<!-- Candidate removed for now: Valheim (not currently available in PS Store catalog). -->

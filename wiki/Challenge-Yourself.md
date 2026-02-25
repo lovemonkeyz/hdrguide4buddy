@@ -1,5 +1,17 @@
 # Challenge Yourself
 
+## Table of Contents
+
+- [1) Elden Ring](#1-elden-ring)
+- [2) Dark Souls III](#2-dark-souls-iii)
+- [3) Bloodborne](#3-bloodborne)
+- [4) Dark Souls Remastered](#4-dark-souls-remastered)
+- [5) Warhammer 40,000: Space Marine 2](#5-warhammer-40000-space-marine-2)
+- [6) Sekiro: Shadows Die Twice](#6-sekiro-shadows-die-twice)
+- [7) Nioh](#7-nioh)
+- [8) Clair Obscur: Expedition 33](#8-clair-obscur-expedition-33)
+- [9) Lies of P](#9-lies-of-p)
+
 > Hard games but extremely rewarding.
 
 ### 1) Elden Ring

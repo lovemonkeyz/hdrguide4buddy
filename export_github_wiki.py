@@ -5,9 +5,14 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+
+REPO_ROOT = Path(__file__).resolve().parent
+DEFAULT_INPUT_JSON = REPO_ROOT / "web" / "local" / "data" / "recommendations.json"
+DEFAULT_OUTPUT_DIR = REPO_ROOT / "wiki"
 
 TOP_SINGLE = [
     "red-dead-redemption-2",
@@ -94,6 +99,22 @@ def format_tag(value: str) -> str:
     return " ".join(part.capitalize() for part in str(value).replace("_", "-").split("-"))
 
 
+def github_anchor(text: str) -> str:
+    value = text.strip().lower().replace("'", "")
+    value = re.sub(r"[^\w\s-]", "", value)
+    value = re.sub(r"[\s_]+", "-", value)
+    value = re.sub(r"-+", "-", value).strip("-")
+    return value
+
+
+def toc(items: list[tuple[str, str]]) -> str:
+    lines = ["## Table of Contents", ""]
+    for label, target in items:
+        lines.append(f"- [{label}]({target})")
+    lines.append("")
+    return "\n".join(lines) + "\n"
+
+
 def has_coop(game: dict[str, Any]) -> bool:
     play_modes = str(game.get("play_modes", "")).lower()
     return bool(game.get("dual_mode") or game.get("section") == "coop" or "co-op ✅" in play_modes)
@@ -121,9 +142,13 @@ def bool_label(value: bool) -> str:
     return "Yes" if value else "No"
 
 
+def game_heading(game: dict[str, Any], rank: int | None = None) -> str:
+    return f"{rank}) {game['title']}" if rank is not None else game["title"]
+
+
 def game_block(game: dict[str, Any], rank: int | None = None) -> str:
-    title = game["title"]
-    heading = f"### {rank}) {title}" if rank is not None else f"### {title}"
+    heading_text = game_heading(game, rank)
+    heading = f"### {heading_text}"
     ratings = game["ratings"]
     lines = [
         heading,
@@ -164,6 +189,17 @@ def resolve_id(game_id: str, by_id: dict[str, dict[str, Any]]) -> dict[str, Any]
     raise KeyError(f"Game id not found in dataset: {game_id}")
 
 
+def heading_pairs_for_games(
+    ids: list[str], by_id: dict[str, dict[str, Any]], ranked: bool
+) -> list[tuple[str, str]]:
+    pairs: list[tuple[str, str]] = []
+    for idx, gid in enumerate(ids, start=1):
+        game = resolve_id(gid, by_id)
+        heading_text = game_heading(game, rank=idx if ranked else None)
+        pairs.append((heading_text, f"#{github_anchor(heading_text)}"))
+    return pairs
+
+
 def render_list(ids: list[str], by_id: dict[str, dict[str, Any]], ranked: bool = False) -> str:
     blocks = []
     for idx, gid in enumerate(ids, start=1):
@@ -173,33 +209,48 @@ def render_list(ids: list[str], by_id: dict[str, dict[str, Any]], ranked: bool =
 
 def page_home(total_games: int) -> str:
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    return f"""# Game Recommendations Wiki
+    page_toc = toc(
+        [
+            ("Top Picks For You", "Top-Picks-For-You"),
+            ("More Recommendations", "More-Recommendations"),
+            ("Challenge Yourself", "Challenge-Yourself"),
+            ("Fredric's Top 10 List", "Fredrics-Top-10-List"),
+            ("Casual/Silly", "Casual-Silly"),
+            ("All Games Index", "All-Games-Index"),
+            ("Notes", "#notes"),
+        ]
+    )
 
-Static backup of the recommendation web app, formatted for GitHub Wiki.
-
-- Generated: **{generated}**
-- Total games in catalog: **{total_games}**
-
-## Pages
-
-- [Top Picks For You](Top-Picks-For-You)
-- [More Recommendations](More-Recommendations)
-- [Challenge Yourself](Challenge-Yourself)
-- [Fredric's Top 10 List](Fredrics-Top-10-List)
-- [Casual/Silly](Casual-Silly)
-- [All Games Index](All-Games-Index)
-
-## Notes
-
-- The wiki version is intentionally static.
-- Interactive features from the web app (filters, save state) are not available in GitHub Wiki.
-"""
+    return (
+        "# Game Recommendations Wiki\n\n"
+        "Static backup of the recommendation web app, formatted for GitHub Wiki.\n\n"
+        f"- Generated: **{generated}**\n"
+        f"- Total games in catalog: **{total_games}**\n\n"
+        + page_toc
+        + "## Pages\n\n"
+        "- [Top Picks For You](Top-Picks-For-You)\n"
+        "- [More Recommendations](More-Recommendations)\n"
+        "- [Challenge Yourself](Challenge-Yourself)\n"
+        "- [Fredric's Top 10 List](Fredrics-Top-10-List)\n"
+        "- [Casual/Silly](Casual-Silly)\n"
+        "- [All Games Index](All-Games-Index)\n\n"
+        "## Notes\n\n"
+        "- The wiki version is intentionally static.\n"
+        "- Interactive features from the web app (filters, save state) are not available in GitHub Wiki.\n"
+    )
 
 
 def page_top_picks(by_id: dict[str, dict[str, Any]]) -> str:
+    page_toc = toc(
+        [
+            ("Single Player Only", "#single-player-only"),
+            ("Co-Op / Hybrid", "#co-op--hybrid"),
+        ]
+    )
     return (
         "# Top Picks For You\n\n"
-        "## Single Player Only\n\n"
+        + page_toc
+        + "## Single Player Only\n\n"
         + render_list(TOP_SINGLE, by_id, ranked=True)
         + "## Co-Op / Hybrid\n\n"
         + "Some games in this section are fully enjoyable solo too, but co-op makes them even better.\n\n"
@@ -208,9 +259,16 @@ def page_top_picks(by_id: dict[str, dict[str, Any]]) -> str:
 
 
 def page_more_recommendations(by_id: dict[str, dict[str, Any]]) -> str:
+    page_toc = toc(
+        [
+            ("Single Player Only", "#single-player-only"),
+            ("Co-Op / Hybrid", "#co-op--hybrid"),
+        ]
+    )
     return (
         "# More Recommendations\n\n"
-        "## Single Player Only\n\n"
+        + page_toc
+        + "## Single Player Only\n\n"
         + render_list(MORE_SINGLE, by_id, ranked=False)
         + "## Co-Op / Hybrid\n\n"
         + "Some games in this section are fully enjoyable solo too, but co-op makes them even better.\n\n"
@@ -219,23 +277,28 @@ def page_more_recommendations(by_id: dict[str, dict[str, Any]]) -> str:
 
 
 def page_challenge(by_id: dict[str, dict[str, Any]]) -> str:
+    page_toc = toc(heading_pairs_for_games(CHALLENGE, by_id, ranked=True))
     return (
         "# Challenge Yourself\n\n"
-        "> Hard games but extremely rewarding.\n\n"
+        + page_toc
+        + "> Hard games but extremely rewarding.\n\n"
         + render_list(CHALLENGE, by_id, ranked=True)
     )
 
 
 def page_fredric_top10(by_id: dict[str, dict[str, Any]]) -> str:
+    page_toc = toc(heading_pairs_for_games(FREDRIC_TOP10, by_id, ranked=True))
     return (
         "# Fredric's Top 10 List\n\n"
-        "> Some of these games are not on any of the other lists, but I strongly recommend all of them.\n\n"
+        + page_toc
+        + "> Some of these games are not on any of the other lists, but I strongly recommend all of them.\n\n"
         + render_list(FREDRIC_TOP10, by_id, ranked=True)
     )
 
 
 def page_casual_silly(by_id: dict[str, dict[str, Any]]) -> str:
-    return "# Casual/Silly\n\n" + render_list(CASUAL_SILLY, by_id, ranked=False)
+    page_toc = toc(heading_pairs_for_games(CASUAL_SILLY, by_id, ranked=False))
+    return "# Casual/Silly\n\n" + page_toc + render_list(CASUAL_SILLY, by_id, ranked=False)
 
 
 def page_all_games_index(games: list[dict[str, Any]]) -> str:
@@ -258,9 +321,19 @@ def page_all_games_index(games: list[dict[str, Any]]) -> str:
             + " |"
         )
 
+    page_toc = toc(
+        [
+            ("How To Use", "#how-to-use"),
+            ("Full Index Table", "#full-index-table"),
+        ]
+    )
+
     return (
         "# All Games Index\n\n"
-        "Use browser search (`Ctrl+F`) in this page to find specific titles/tags.\n\n"
+        + page_toc
+        + "## How To Use\n\n"
+        "Use browser search (`Ctrl+F`) in this page to find specific titles, genres, moods, or tags.\n\n"
+        "## Full Index Table\n\n"
         "| Title | Primary | Co-Op | Viewpoint | Difficulty | Mood | Pace | Link |\n"
         "|---|---|---|---|---|---|---|---|\n"
         + "\n".join(rows)
@@ -308,13 +381,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--input",
         type=Path,
-        default=Path("web/local/data/recommendations.json"),
+        default=DEFAULT_INPUT_JSON,
         help="Path to recommendations.json",
     )
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("wiki"),
+        default=DEFAULT_OUTPUT_DIR,
         help="Directory to write wiki markdown pages",
     )
 

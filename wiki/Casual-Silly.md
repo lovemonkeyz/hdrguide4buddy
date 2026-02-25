@@ -1,5 +1,13 @@
 # Casual/Silly
 
+## Table of Contents
+
+- [High On Life](#high-on-life)
+- [Saints Row The Third Remastered](#saints-row-the-third-remastered)
+- [Saints Row IV: Re-Elected](#saints-row-iv-re-elected)
+- [Saints Row: Gat Out of Hell](#saints-row-gat-out-of-hell)
+- [Ratchet & Clank: Rift Apart](#ratchet-clank-rift-apart)
+
 ### High On Life
 
 ⭐ **PS5 Store:** 4.39/5 | **Critics:** 67.0/100 | **Community:** 7.6/10

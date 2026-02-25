@@ -1,5 +1,10 @@
 # Top Picks For You
 
+## Table of Contents
+
+- [Single Player Only](#single-player-only)
+- [Co-Op / Hybrid](#co-op--hybrid)
+
 ## Single Player Only
 
 ### 1) Red Dead Redemption 2

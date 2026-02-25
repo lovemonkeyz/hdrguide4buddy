@@ -1,5 +1,10 @@
 # More Recommendations
 
+## Table of Contents
+
+- [Single Player Only](#single-player-only)
+- [Co-Op / Hybrid](#co-op--hybrid)
+
 ## Single Player Only
 
 ### Dishonored

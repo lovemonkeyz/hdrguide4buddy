@@ -1,6 +1,15 @@
 # All Games Index
 
-Use browser search (`Ctrl+F`) in this page to find specific titles/tags.
+## Table of Contents
+
+- [How To Use](#how-to-use)
+- [Full Index Table](#full-index-table)
+
+## How To Use
+
+Use browser search (`Ctrl+F`) in this page to find specific titles, genres, moods, or tags.
+
+## Full Index Table
 
 | Title | Primary | Co-Op | Viewpoint | Difficulty | Mood | Pace | Link |
 |---|---|---|---|---|---|---|---|

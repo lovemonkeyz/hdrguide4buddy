@@ -1,5 +1,18 @@
 # Fredric's Top 10 List
 
+## Table of Contents
+
+- [1) Clair Obscur: Expedition 33](#1-clair-obscur-expedition-33)
+- [2) Baldur's Gate 3](#2-baldurs-gate-3)
+- [3) The Witcher 3: The Wild Hunt](#3-the-witcher-3-the-wild-hunt)
+- [4) Red Dead Redemption 2](#4-red-dead-redemption-2)
+- [5) Cyberpunk 2077](#5-cyberpunk-2077)
+- [6) God Of War: Ragnarök](#6-god-of-war-ragnarök)
+- [7) Mass Effect: Legendary Edition](#7-mass-effect-legendary-edition)
+- [8) Bioshock 2 Remastered](#8-bioshock-2-remastered)
+- [9) Bioshock Remastered](#9-bioshock-remastered)
+- [10) Horizon Zero Dawn: Remastered](#10-horizon-zero-dawn-remastered)
+
 > Some of these games are not on any of the other lists, but I strongly recommend all of them.
 
 ### 1) Clair Obscur: Expedition 33
